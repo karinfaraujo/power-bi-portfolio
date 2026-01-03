@@ -1,14 +1,31 @@
-# Power BI Portfolio
+# 📊 Power BI Portfolio
 
-Welcome to my Power BI portfolio. This repository contains dashboards and data analysis projects designed to deliver actionable insights and support business decision-making. Each project demonstrates my skills in creating clear, data-driven visualizations and solving real-world analytical challenges.
+Welcome to my Power BI portfolio. This repository contains dashboards and data analysis projects designed to deliver actionable insights and support business decision-making. 
 
-## Skills
+**Project titles and file names are in English for clarity.** The dashboards and project descriptions are primarily in Portuguese, reflecting the original datasets.
 
-- Power BI (DAX, Data Modeling, Visualizations)
-- Data Analysis
-- Business Intelligence
-- Data-driven storytelling
+---
 
-## Notes
+## 🛠 Skills
 
-Some dashboards use datasets in Portuguese, but all project descriptions are in English.
+- 📈 Power BI (DAX, Data Modeling, Visualizations)  
+- 🔍 Data Analysis  
+- 💡 Business Intelligence  
+- 📝 Data-driven storytelling
+
+---
+
+## 📁 Repository Structure
+
+- Each project has its own PDF files:  
+  - **Dashboard**  
+  - **Project Description**
+
+> Project titles and file names are in English for easy navigation.
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: [www.linkedin.com/in/karinaraujo]  
+- GitHub: [https://github.com/karinfaraujo]
