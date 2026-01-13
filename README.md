@@ -19,10 +19,8 @@ This repository contains **data analysis and business intelligence projects** de
 
 ---
 
-### 📄 Each project folder includes:
-- **README.md** → Business context, objectives, KPIs and insights  
+### 📄 Each project includes:
 - **dashboard.pdf** → Exported Power BI report (Portuguese)  
-- **Images folder** → Screenshots of key visuals (optional)
 
 ---
 
@@ -44,8 +42,7 @@ The focus is on:
 
 ## 🌍 Language Note
 - 📄 **Reports (PDF):** Portuguese  
-- 🏷️ **Project names & folders:** English  
-- 📝 **Documentation:** Portuguese (structured for international readability)
+- 🏷️ **Project names:** English  
 
 This approach ensures **professional organization** while maintaining **business context accuracy**.
 
