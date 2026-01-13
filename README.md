@@ -4,7 +4,7 @@ Welcome to my **Power BI portfolio**.
 This repository contains **data analysis and business intelligence projects** developed to deliver **actionable insights** and support **data-driven decision-making**.
 
 > 🔎 **Important Note**  
-> - Project titles and file/folder names are written in **English** for clarity and standardization.  
+> - Project titles and file names are written in **English** for clarity and standardization.  
 > - All reports are provided **exclusively as PDF files** and are written in **Portuguese**, focusing on the Brazilian business context.  
 > - Power BI `.pbix` files are not stored in this repository due to file size limitations.
 
