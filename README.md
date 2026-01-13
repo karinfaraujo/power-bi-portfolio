@@ -1,8 +1,8 @@
 # 📊 Power BI Portfolio
 
-Welcome to my Power BI portfolio. This repository contains dashboards and data analysis projects designed to deliver actionable insights and support business decision-making. 
+Welcome to my Power BI portfolio. This repository contains data analysis projects designed to deliver actionable insights and support business decision-making. 
 
-**Project titles and file names are in English for clarity.** The dashboards and project descriptions are primarily in Portuguese, reflecting the original datasets.
+**Project titles and file names are in English for clarity.** The project descriptions are primarily in Portuguese, reflecting the original datasets.
 
 ---
 
