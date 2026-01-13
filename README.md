@@ -18,7 +18,6 @@ Welcome to my Power BI portfolio. This repository contains dashboards and data a
 ## 📁 Repository Structure
 
 - Each project has its own PDF files:  
-  - **Dashboard**  
   - **Project Description**
 
 > Project titles and file names are in English for easy navigation.
